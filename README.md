@@ -1,7 +1,7 @@
 # JAQ Blog
 A producttion ready blog portal built with HTML, Angular and Java.
 
-![jaqblog-home](https://user-images.githubusercontent.com/902972/49114827-c7ef5a80-f25e-11e8-9946-ed1a7f968456.png))
+![jaqblog-home](https://user-images.githubusercontent.com/902972/49127173-f0417e00-f28b-11e8-92b0-c3e4b22a37d9.png)
 
 ## Demo
 * **[View live demo here](https://jaqtomcat8.azurewebsites.net/jaqblog/initializr)**
